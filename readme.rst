@@ -28,5 +28,11 @@ Teknologi
 - Codeigniter 3 
 - Mysql 
 
+*******************
+Tools
+*******************
+
+- Xampp
+- Visual Studio Code
 
 
