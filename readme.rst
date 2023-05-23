@@ -26,6 +26,7 @@ Teknologi
     - Jquery
     - Ajax
 - Codeigniter 3 
+- Mysql 
 
 
 
